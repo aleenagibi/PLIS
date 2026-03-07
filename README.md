@@ -62,7 +62,7 @@ PLIS solves this by introducing an honesty layer into the study process. You log
 
 🚧 **Actively being built** — Started March 2026
 
-This project is being developed over 5 months as part of a structured plan to learn Python, Machine Learning, and AI integration from the ground up. Every line of code is written from scratch — no AI generation, no copy-paste.
+This project is being developed over 5 months as a hands-on approach to apply Python, Machine Learning, and AI integration through real, self-driven building.
 
 Follow the commit history to see the full learning journey.
 
