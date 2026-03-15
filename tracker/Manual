@@ -1,0 +1,13 @@
+ Understand What the Script Will Do
+Before you write a single line, here's the plain-English logic of log_concept.py:
+
+Ask the user: "What concept did you study?" → store it as a string
+Ask the user: "Rate your confidence from 1 to 5" → store it as a number
+Create a dictionary (like a small record) with: concept name, confidence score, and today's date
+Open the concepts.json file (or create it if it doesn't exist)
+Load any existing records from it
+Add the new record to the list
+Save everything back to the file
+Print a confirmation message
+
+This is just Python basics — input(), dictionaries, lists, and file handling. Nothing beyond what you already know, except possibly file handling, which I'll explain as we go.
